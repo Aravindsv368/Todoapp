@@ -23,7 +23,7 @@
   font-weight: bold;
   cursor: pointer;
 }
-
+/* completd */
 .completed {
   text-decoration: line-through;
   color: rgb(4, 197, 4);
