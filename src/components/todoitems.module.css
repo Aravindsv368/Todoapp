@@ -1,0 +1,30 @@
+.itemContainer {
+  font-size: 20px;
+  width: 500px;
+  margin: 0 auto;
+}
+
+.itemNames {
+  font-weight: bolder;
+  padding: 20px;
+}
+
+.seperator {
+  border: 1px solid rgb(162, 158, 158);
+}
+
+.deleteBtn {
+  float: right;
+  background-color: rgb(105, 54, 152);
+  color: white;
+  padding: 8px 15px;
+  border: none;
+  border-radius: 4px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: rgb(4, 197, 4);
+}
