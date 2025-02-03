@@ -4,6 +4,7 @@ export default function Footer({ completedTodos, totalTodos }) {
     <div className={styles.footer}>
       <span className={styles.item}>completed Todos: {completedTodos}</span>
       <span className={styles.item}>Total Todos: {totalTodos}</span>
+      <h4>lkjhgfd</h4>
     </div>
   );
 }
